@@ -1,0 +1,2 @@
+# Flipkartanalysis
+E-Commerce has been increasing very rapidly nowadays ,as purchasing items online has become fashionable outstanding of more options like lower in size ,better supply system. Hence consumers tend to prefer more numbers of online shopping.  In Flipkart review sentiment analysis, extracts the information present in Flipkart reviews, classifies it and final review of product is obtained.
